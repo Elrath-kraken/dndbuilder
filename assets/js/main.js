@@ -6,7 +6,7 @@ let chaclass = '';
 let level = 0;
 let background = '';
 let alignement = '';
-let pro = 0
+let pro = 0;
 
 // Pro Bonus Calculator
 
@@ -55,7 +55,7 @@ let pint = 0;
 let pwis = 0;
 let pcha = 0;
 
-// Saving throws calculator
+// automate saving throws calculator
 
 let ststr = strmod + pstr;
 let stdex = dexmod + pdex;
